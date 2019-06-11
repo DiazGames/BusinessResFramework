@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.meta
+资料/
+ProjectSettings/
+Assets/GameData/Data/
+Assets/StreamingAssets/
